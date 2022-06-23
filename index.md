@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# 自由天堂
+## ようこそ。
 
-You can use the [editor on GitHub](https://github.com/FREE-HEAVEN/zyttws/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到**自由天堂**。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+自由天堂网络组织于2020年8月5日成立，组织目前成功进化为建立中期，所有成员的首要任务是收集网络的资源（包括图片链接安装包新闻游戏番剧等等），次要任务是招收新成员。
+推迟原有组织规划中规定的建立虚拟共和国的中心目标，将收集并开放分享网络上资源作为中心职能，将讨论娱乐游戏方面的情节作为群的重点职能，将讨论学术科学前沿方面的内容以及Driving作为次要职能。
 
-### Markdown
+我们的QQ群(第二个备用)：```549241805``` ```253108929``` 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##  相关文字内容
 
-```markdown
-Syntax highlighted code block
+[《自由天堂网络组织成员规范》（现行有效）](zuzhiguifan1.doc)
 
-# Header 1
-## Header 2
-### Header 3
+## 大事记
 
-- Bulleted
-- List
+```
+20200805 自由天堂网络**成立
+20210525 颁布《自由天堂网络**宪法》
+20210621 颁布《自由天堂网络**修正案》
+		 并在发布当天开始施行
+20210624 颁布《自由天堂网络**冰雪聪明》
+		 并在发布当天开始施行
+20210719 自由天堂网络共和国首都（即本站）成立
+20211107 自由天堂Github官号成立
+20220106 教主的新年讲话
+20220107 自由天堂完成建立初期目标
+20220503 自由天堂已经完成接收下一届新高一的准备
+20220601 自由天堂举行二中支部的第一次线下会议
+20220602 颁布《自由天堂网络组织成员规范》
+                  并在发布当天开始施行
 
-1. Numbered
-2. List
+```
+##  组织职能
 
-**Bold** and _Italic_ and `Code` text
+```
+本组织真的是学习组织！
+公布一下主要学习项目吧（最新）
+1.心理学（未成年人的心理结构性问题的分析与解决计划）
+2.化学（化学实践类：炸药理论与配置研究）
+3.生物（生物毒素的科学研究与提纯）
+4.物理（核物理：惯性约束核聚变）
+5.美学（美学的鉴赏能力）
+6.信息技术（网络资源的发掘与利用）
+7.社会学（自己体会）
 
-[Link](url) and ![Image](src)
+```
+##  组织架构
+
+```
+1.教皇和最高支配者：教皇为自由天堂最高领导人，最高支配者为精神领袖，以及某党派的重要合作人士，二者同样具有一票否决权。
+2.教皇领导下的管理者：
+（1）最高设立红衣主教，有仅次于教主的支配权，可以开除成员以及收纳新成员。
+（2）设立大主教，主要负责宣传以及收纳新成员。有合理的意识形态。
+（3）设立主教，为自由天堂有突出贡献者。在主教以上会有决定重大事务的权利。
+（4）支配者以及神父，为自由天堂分部负责人，有参与重大事务的能力。
+3.
+上层成员，代号为单字，自由天堂的重要成员。意识形态优越
+中层成员，代号为双字，自由天堂的骨干力量。
+基层成员，代号为单字加数字，自由天堂的友好伙伴。
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 传送门
+[究极咸鱼党 \| 友好邻邦鰝蠌蔕蔮](https://kmyoamoa.github.io/usfparty/)
+[Akatsuki的主页](https://kmyoamoa.github.io/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FREE-HEAVEN/zyttws/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 自由天堂万岁！
+### 自由与你们同在！
