@@ -70,13 +70,43 @@
 
 [Akatsuki的主页](https://kmyoamoa.github.io/)
 
-[二中星火传媒]([https://kmyoamoa.github.io/](https://hangzhou-no-2-high-school-spark-studio.github.io/SparkStudio/))
+[二中星火传媒](https://hangzhou-no-2-high-school-spark-studio.github.io/SparkStudio/)
 
 ## 公告栏
 ```
-这里之后会时不时放上一些主要的计划和告示，请及时关注咩！
+教主：“祝各位自由人学考顺利全A！”
 
 ```
+## 属于来访者的专属福利
+[在线音乐解码器](https://demo.unlock-music.dev/)
+
+[Unity教程1](https://zhuanlan.zhihu.com/p/151238164)
+[Unity教程2](https://mp.weixin.qq.com/s/QaEZuMRGTf07pml_h1rhxA)
+
+[小游戏](edge://surf/)
+
+[高等数学](http://t.cn/A6Il6q65)
+[线性代数](http://t.cn/A6ITmpfp)
+[概率论](http://t.cn/A6f8KBQd)
+[数理方法](http://t.cn/A6IiUpeO)
+[常微分方程](http://t.cn/A6qXg4xM)
+[思修](http://t.cn/A6Pys77W)
+[近现代史纲要](http://t.cn/A6cFmo0L)
+[马克思主义基本原理](http://t.cn/A6fF2xe1)
+[习概](http://t.cn/A6IzEtKk)
+[毛概](http://t.cn/A6fFR8LJ)
+[形势与政策](http://t.cn/A6G7gPuV)
+[C++程序设计](http://t.cn/A6G7gPuVx)
+[python程序设计](http://t.cn/A6PyP7Cd)
+[机器学习概论](http://t.cn/A6ImObYm)
+[力学](http://t.cn/A6fucewq)
+[电磁学](http://t.cn/A6PUZud4)
+[普通生物学（上）](http://t.cn/A67uxIiO)
+[普通生物学（下）](http://t.cn/A6c9W6G9)
+[结构化学](http://t.cn/A6fL2haZ)
+[有机化学](http://t.cn/A6qafzmT)
+[普通心理学](http://t.cn/A64LynkB)
+
 
 ### 自由天堂万岁！
 ### 自由与你们同在！
