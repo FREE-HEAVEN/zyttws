@@ -66,6 +66,8 @@
 ```
 
 ## 传送门
+[教主的主页](https://freeheaven-pain.github.io/PAIN/)
+
 [究极咸鱼党 \| 友好邻邦鰝蠌蔕蔮](https://kmyoamoa.github.io/usfparty/)
 
 [Akatsuki的主页](https://kmyoamoa.github.io/)
