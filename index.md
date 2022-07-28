@@ -8,9 +8,11 @@
 
 我们的QQ群(第二个备用)：```549241805``` ```253108929``` 
 
-##  相关文字内容
+##  相关组织文件（请务必阅读）
 
 [《自由天堂网络组织成员规范》（现行有效）](https://free-heaven.github.io/002/)
+
+[《自由天堂网络组织管理办法》（现行有效）](https://kmyoamoa.github.io/usfparty/articles/manage_method)
 
 ## 大事记
 
