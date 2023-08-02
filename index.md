@@ -19,6 +19,8 @@
 
 我们的QQ群(第二个备用)： ```253108929``` ```863634270``` 
 
+<iframe src="https://discord.com/widget?id=748357530157056070&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ##  相关组织文件（请务必点击以下条目阅读）
 
 [《自由天堂网络组织成员规范》（现行有效）](https://free-heaven.github.io/002/)
